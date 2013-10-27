@@ -1,3 +1,5 @@
+Working on a test branch for implementing parameterization to the rexster REST api. For original repo, go to https://github.com/mavenik/rexster-ruby
+
 # Rexster::Ruby
 
 Gem to interface Ruby applications with Rexster.
